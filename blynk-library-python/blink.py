@@ -12,7 +12,7 @@ GPIO.output(device1, GPIO.LOW)
 
 
 # Initialize Blynk
-blynk = BlynkLib.Blynk('UTQ3KkXKdNFMXFElWeHt7KqpyWPCMFAF')
+blynk = BlynkLib.Blynk('Ow8ZniSxtawmAw63VRSsGIde7uUFpF6T')
 
 # Led control through V0 virtual pin
 @blynk.on("V0")
